@@ -1,0 +1,18 @@
+Tuples, lists, sets, dictionaries in python
+slicing of lists
+map(),filter()
+lambda functions
+list comprehension
+date and time
+object oriented python
+numpy
+mutable and immutable objects in python
+Pandas- Series
+Pandas- Dataframe:
+    Creating/Importing a Dataframe
+    Indexing a Dataframe
+    Querying a Dataframe
+    Modifying a Dataframe (adding/deleting rows/columns, changing names etc.)
+Merging dataframes using concat,merge
+Pandas apply()
+Function chaining
